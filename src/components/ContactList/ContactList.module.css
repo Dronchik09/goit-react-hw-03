@@ -1,0 +1,18 @@
+.contactList{
+    min-width:300px;
+    max-width: max-content;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+
+}
+
+.contact{
+    display: flex;
+    padding: 0.5rem;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+    border: 2px solid #202020;
+    border-radius: 10px;
+}
